@@ -2,14 +2,14 @@
 
 This project involves advanced Excel based financial and sales analysis for AtliQ Hardwares, a company with sell Computer hardware to wordwide customers. The goal was to extract, transform, and analyze the data from the year 2019 to 2021 to generate insightful reports that help in decision-making.
 
-<h2>Reports Created</h2>
- -  Customer Performance Report – Analyzes net sales per customer for 2019, 2020, and 2021 with year-over-year comparisons.<br><br>
- -  Market Performance Report – Evaluates country-wise net sales from 2019 to 2021 and compares them against 2021 targets.<br><br>
- -  Profit and Loss (P&L) by Fiscal Year – calculates yearly Profit & Loss (P&L) reports for fiscal year 2019 to 2021.<br><br>
- -  Profit and Loss (P&L) by Fiscal Quarters – quarterly Profit & Loss breakdown,year over year comparison from 2019 to 2021<br><br>
+<b>Reports Created</b>
++ Customer Performance Report: Analyzes net sales per customer for 2019, 2020, and 2021 with year-over-year comparisons.<br><br>
++ Market Performance Report: Evaluates country-wise net sales from 2019 to 2021 and compares them against 2021 targets.<br><br>
++ Profit and Loss (P&L) by Fiscal Year: calculates yearly Profit & Loss (P&L) reports for fiscal year 2019 to 2021.<br><br>
++ Profit and Loss (P&L) by Fiscal Quarters: Quarterly Profit & Loss breakdown,year over year comparison from 2019 to 2021<br><br>
 
 
-# Data Processing Steps <br>
+<b>Data Processing Steps</b> <br><br>
 <b>Situation:</b><br>
 AtliQ had sales, expense, and dimensional data spread across multiple Excel files. They needed structured reports to assess financial and sales performance over time.
 
