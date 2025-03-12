@@ -56,10 +56,10 @@ The objective was to clean, transform, and consolidate data from different sourc
 <i>AtliQ Hardwares' fiscal year starts in September and ends in August.</i>
 
 # Report Links
-[Customer Performance Report](customers_net_sales_performance_report_excel.pdf)<br>
-[Market Performance Report](market_performance_versus_target_report_sales_in_excel.pdf)<br>
-[Profit and Loss (P&L) by Fiscal Year](P&L_by_month.pdf)<br>
-[Profit and Loss (P&L) by Quarter](P&L_yearly.pdf)<br>
++ [Customer Performance Report](customers_net_sales_performance_report_excel.pdf)<br>
++ [Market Performance Report](market_performance_versus_target_report_sales_in_excel.pdf)<br>
++ [Profit and Loss (P&L) by Fiscal Year](P&L_by_month.pdf)<br>
++ [Profit and Loss (P&L) by Quarter](P&L_yearly.pdf)<br>
 # Future Enhancements
     -Automate reports using Power BI for better visualization.<br>
     -Integrate with SQL databases for real-time data updates.<br>
