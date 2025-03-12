@@ -42,10 +42,10 @@ The objective was to clean, transform, and consolidate data from different sourc
    -Created monthly breakdowns for year-over-year performance comparisons.</p>
 
 <p><b>Results & Insights</b><br>
-> -Provided customer-level and market-level sales trends to track performance.<br>
-> -Enabled year-over-year and quarter-over-quarter financial comparisons.<br>
-> -Ensured data integrity and accuracy through Power Query transformations.<br>
-> -Optimized dynamic reports using DAX measures and Pivot Tables.</p>
+ -Provided customer-level and market-level sales trends to track performance.<br>
+ -Enabled year-over-year and quarter-over-quarter financial comparisons.<br>
+ -Ensured data integrity and accuracy through Power Query transformations.<br>
+ -Optimized dynamic reports using DAX measures and Pivot Tables.</p>
 <b>Tech Stack Used</b> <br>
 ✅ Excel (Power Query, Power Pivot, DAX, Pivot Tables)<br>
 ✅ Data Modeling (Star Schema)<br>
